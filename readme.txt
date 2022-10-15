@@ -14,7 +14,7 @@ A starter theme called Learning-WordPress-Theme.
 
 == Description ==
 
-Description
+This theme purpose is to learning how to make and get to know how it works on theme development
 
 == Installation ==
 
