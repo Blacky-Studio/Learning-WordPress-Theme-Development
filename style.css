@@ -967,3 +967,18 @@ textarea {
 	margin-right: auto;
 	margin-bottom: 1.5em;
 }
+
+/* custom css artsix */
+body{
+	
+}
+
+h1{
+	font-family: sans-serif;
+	margin: auto;
+}
+
+p {
+	font-family: verdana;
+	font-size: 12px;
+}
