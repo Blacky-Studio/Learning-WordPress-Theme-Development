@@ -80,3 +80,11 @@ Example : "I made some changes to `404` by adding ...."
 
 ### Purpose
 This repository purpose to get to know how Development Theme Works
+
+How To Use Theme
+---------------
+
+1. Clone a Project from Github / Download as a ZIP
+2. Place the theme within your WordPress Project inside `/wp-content/themes/`
+3. Setting to use your theme on WordPress dashboard at Appearance -> Themes -> Pick the theme that we use for learn right now / or maybe other theme that you want play with
+4. Done and Happy Hacking with WordPress Theme
