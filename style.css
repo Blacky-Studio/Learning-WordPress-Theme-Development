@@ -969,16 +969,54 @@ textarea {
 }
 
 /* custom css artsix */
-body{
-	
+h1,.h1{
+	font-size: 26px;
 }
-
-h1{
-	font-family: sans-serif;
-	margin: auto;
+h2,.h2{
+	font-size: 24px;
 }
-
-p {
-	font-family: verdana;
-	font-size: 12px;
+h3,.h3{
+	font-size: 22px;
+}
+h4,.h4{
+	font-size: 20px;
+}
+h5,.h5{
+	font-size: 18px;
+}
+h6,.h6{
+	font-size: 16px;
+}
+h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h5, .h5, h6, .h6{
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+mark, .mark{
+	background-color: inherit;
+}
+img,
+video {
+	height: auto; /* Make sure images are scaled correctly. */
+	max-width: 100%; /* Adhere to container width. */
+}
+/* Make sure embeds and iframes fit their containers. */
+embed,
+iframe,
+object {
+	margin-bottom: 1.5em;
+	max-width: 100%;
+}
+th {
+	text-align: center;
+}
+a{
+	transition: all 0.2s ease 0s;
+}
+a:hover{
+	text-decoration: none;
+}
+#email,
+#url,
+.search-form{
+	text-align: center;
 }
