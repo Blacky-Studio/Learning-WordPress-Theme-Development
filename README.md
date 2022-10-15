@@ -1,5 +1,8 @@
 [![Build Status](https://travis-ci.org/Automattic/_s.svg?branch=master)](https://travis-ci.org/Automattic/_s)
 
+
+Learning WordPress Theme Development
+
 ===
 
 Hi. I'm a starter theme called `_s`, or `underscores`, if you like. I'm a theme meant for hacking so don't use me as a Parent Theme. Instead try turning me into the next, most awesome, WordPress theme out there. That's what I'm here for.
@@ -64,6 +67,16 @@ $ npm install
 - `npm run lint:js` : checks all JavaScript files against [JavaScript Coding Standards](https://developer.wordpress.org/coding-standards/wordpress-coding-standards/javascript/).
 - `npm run bundle` : generates a .zip archive for distribution, excluding development and system files.
 
+How To Contribute
+---------------
+
+### Step-By-Steps
+1. Do a Quick-Stark Step first.
+2. Make so commits that u do and add some message that u do.
+Example : "I made some changes to `404` by adding ...."
+"It was done by step-step like...."
+3. Do a commits and made a Pull Request.
+4. Done 
 
 ### Purpose
 This repository purpose to get to know how Development Theme Works

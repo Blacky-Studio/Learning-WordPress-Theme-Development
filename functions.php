@@ -149,6 +149,14 @@ function learning_wordpress_theme_scripts() {
 }
 add_action( 'wp_enqueue_scripts', 'learning_wordpress_theme_scripts' );
 
+function year_shortcode () {
+	$year = date_i18n ('Y');
+	return $year;
+}
+add_shortcode ('year', 'year_shortcode');
+
+
+
 /**
  * Implement the Custom Header feature.
  */
