@@ -18,7 +18,7 @@ My ultra-minimal CSS might make me look like theme tartare but that means less s
 * 2 sample layouts in `sass/layouts/` made using CSS Grid for a sidebar on either side of your content. Just uncomment the layout of your choice in `sass/style.scss`.
 Note: `.no-sidebar` styles are automatically loaded.
 * Smartly organized starter CSS in `style.css` that will help you to quickly get your design off the ground.
-* Full support for `WooCommerce plugin` integration with hooks in `inc/woocommerce.php`, styling override woocommerce.css with product gallery features (zoom, swipe, lightbox) enabled.
+* Full support for `WooCommerce plugin` integration with hooks in `inc/woocommerce.php`, styling override `woocommerce.css` with product gallery features (zoom, swipe, lightbox) enabled.
 * Licensed under GPLv2 or later. :) Use it to make something cool.
 
 Installation
@@ -38,7 +38,7 @@ Clone or download this repository, change its name to something else (like, say,
 1. Search for `'_s'` (inside single quotations) to capture the text domain and replace with: `'megatherium-is-awesome'`.
 2. Search for `_s_` to capture all the functions names and replace with: `megatherium_is_awesome_`.
 3. Search for `Text Domain: _s` in `style.css` and replace with: `Text Domain: megatherium-is-awesome`.
-4. Search for <code>&nbsp;_s</code> (with a space before it) to capture DocBlocks and replace with: <code>&nbsp;Megatherium_is_Awesome</code>.
+4. Search for `<code>&nbsp;_s</code>` (with a space before it) to capture DocBlocks and replace with: `<code>&nbsp;Megatherium_is_Awesome</code>`.
 5. Search for `_s-` to capture prefixed handles and replace with: `megatherium-is-awesome-`.
 6. Search for `_S_` (in uppercase) to capture constants and replace with: `MEGATHERIUM_IS_AWESOME_`.
 
@@ -71,8 +71,8 @@ How To Contribute
 ---------------
 
 ### Step-By-Steps
-1. Do a Quick-Stark Step first.
-2. Make so commits that u do and add some message that u do.
+1. Do a quick start step first.
+2. Make so commits that you do and add some message that you do.
 Example : "I made some changes to `404` by adding ...."
 "It was done by step-step like...."
 3. Do a commits and made a Pull Request.
